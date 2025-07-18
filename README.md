@@ -58,7 +58,7 @@ To use a model that is officially supported by Groq (like `llama3-8b-8192` or `m
 # In app.py, find this line:
 chat = ChatOpenAI(
     model="moonshotai/kimi-k2-instruct", # <-- Change this to a Groq model
-    openai_api_key=st.session_state.groq_api_key,
+    openai_api_key=groq_api_key,
     openai_api_base="https://api.groq.com/openai/v1"
 )
 ```
