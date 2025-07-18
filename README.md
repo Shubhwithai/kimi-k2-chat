@@ -17,8 +17,8 @@ To run this application locally, follow these steps:
 **1. Clone the Repository**
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Shubhwithai/kimi-k2-chat.git
+cd kimi-k2-chat
 ```
 
 **2. Install Dependencies**
